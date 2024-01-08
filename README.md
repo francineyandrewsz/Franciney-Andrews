@@ -6,7 +6,7 @@
 
 ## 👩‍🎓 Formação
 <div style="display: block">
-  👩‍💻 Tecnico em Desenvolvimento de Sistemas
+  👩‍💻 Tecnico em Desenvolvimento de Sistemas - IFPI
    <br> 
   👩‍💻 Negócios em TIC
    <br> 
