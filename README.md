@@ -1,9 +1,14 @@
 ## Oi!!! Seja bem vindo! Eu sou o Franciney Andrews 👋
 ### Desenvolvedor de sistemas no IFPI | Diagramador no Grupo Meio Norte | Estudante por toda a vida 👩‍💻
 
-##  Alguns dos meus conhecimentos 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,figma,ps,postgres,py,swift,flutter)](https://skills.thijs.gg)
 
+
+##  Alguns dos meus conhecimentos 
+<div>
+  <a href="https://github.com/jonataslaet">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francineyandrewsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francineyandrewsz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 ## 👩‍🎓 Formação
 <div style="display: block">
   👩‍💻 Tecnico em Desenvolvimento de Sistemas - IFPI
